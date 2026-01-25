@@ -45,3 +45,6 @@ Matplotlib, Seaborn
 Plotly
 
 Jupyter Notebook
+# The plotly graphs which are not visible are present as image here'
+/content/RELIABILITY_OF_BOWLERS_BY_TEAM.html
+
