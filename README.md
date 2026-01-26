@@ -45,9 +45,6 @@ Matplotlib, Seaborn
 Plotly
 
 Jupyter Notebook
-# The plotly graphs which are not visible are present as image here'
-file:///C:/Users/coone/Downloads/Top_Bowlers_by_Economy_Rate.html
-file:///C:/Users/coone/Downloads/Strike_rate_vs_Economy_Rate_for_Bowlers.html
-file:///C:/Users/coone/Downloads/RELIABILITY_OF_BOWLERS_BY_TEAM.html
-file:///C:/Users/coone/Downloads/4W+5W_Hauls_for_Bowlers.html
+# The plotly graphs which are not visible are present as in repository  here'
+https://github.com/ag22042008/ipl2025missing-graphs
 
